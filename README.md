@@ -1,6 +1,6 @@
 # wk4-CodeQuiz
 
-Link: [Codequiz]([https://etta0311.github.io/wk4-CodeQuiz/](https://etta0311.github.io/CodeQuiz/))
+Link: [Codequiz](https://etta0311.github.io/CodeQuiz/)
 
 ## Description
 
